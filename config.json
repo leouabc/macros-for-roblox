@@ -1,0 +1,17 @@
+{
+  "ruta": "ruta_20261012_112540.json",
+  "tecla_calabaza": "3",
+  "espera_knock": 4.0,
+  "timeout_knock": 2.5,
+  "umbral_knock": 0.75,
+  "esquive_cada": 0.0,
+  "modo": "siempre",
+  "umbral_noche": 60.0,
+  "reset_vuelta": false,
+  "espera_respawn": 8.0,
+  "vueltas_max": 0,
+  "pausa_sin_foco": true,
+  "pausar_raro": true,
+  "watchdog": 5,
+  "variacion": 15.0
+}
